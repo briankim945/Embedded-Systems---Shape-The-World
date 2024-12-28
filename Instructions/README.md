@@ -29,3 +29,9 @@ Finally, at this point, you should be able to build and run the lab files in sim
 # Conclusion
 
 Congratulations! With these installations and modifications, it should now be possible to take "Embedded Systems - Shape The World" in 2024.
+
+# Appendum
+
+## Chapter 8
+
+If you run into an error with the lab at `#include "tm4c123gh6pm.h"`, go to the link [here](https://users.ece.utexas.edu/~valvano/Volume1/tm4c123gh6pm.h) where the course instructors have included a working version of the file. Add it to the Lab 8 directory. You may need to restart Keil.
