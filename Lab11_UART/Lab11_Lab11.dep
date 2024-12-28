@@ -1,0 +1,10 @@
+Dependencies for Project 'Lab11', Target 'Lab11': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.
+F (.\startup.s)(0x57019B88)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I"C:\Users\Brian\AppData\Local\Keil_v5\ARM\ARM Default 5\RV31\INC"-I"C:\Users\Brian\AppData\Local\Keil_v5\ARM\ARM Default 5\CMSIS\Include"-I"C:\Users\Brian\AppData\Local\Keil_v5\ARM\ARM Default 5\INC\Luminary"--pd "__UVISION_VERSION SETA 540"--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\UART.c)(0x676F59E4)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I .. -I ..\..\..-I"C:\Users\Brian\AppData\Local\Keil_v5\ARM\ARM Default 5\RV31\INC"-I"C:\Users\Brian\AppData\Local\Keil_v5\ARM\ARM Default 5\CMSIS\Include"-I"C:\Users\Brian\AppData\Local\Keil_v5\ARM\ARM Default 5\INC\Luminary"-D__UVISION_VERSION="540" -Drvmdk -DPART_LM4F120H5QR-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
+I (tm4c123gh6pm.h)(0x66E19E89)
+I (UART.h)(0x54A112DE)
+F (.\main.c)(0x56995FE6)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I .. -I ..\..\..-I"C:\Users\Brian\AppData\Local\Keil_v5\ARM\ARM Default 5\RV31\INC"-I"C:\Users\Brian\AppData\Local\Keil_v5\ARM\ARM Default 5\CMSIS\Include"-I"C:\Users\Brian\AppData\Local\Keil_v5\ARM\ARM Default 5\INC\Luminary"-D__UVISION_VERSION="540" -Drvmdk -DPART_LM4F120H5QR-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (UART.h)(0x54A112DE)
+I (TExaS.h)(0x56995F32)
+F (.\texas.o)(0x56995F32)()
